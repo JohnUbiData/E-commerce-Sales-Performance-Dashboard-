@@ -57,7 +57,7 @@ Project File
 
 The complete Power BI dashboard file is available in this repository.
 
-👉 View / Download the Power BI Dashboard (.pbix)
+📊 Download the Power BI Dashboard (.pbix)
 
 ⸻
 
