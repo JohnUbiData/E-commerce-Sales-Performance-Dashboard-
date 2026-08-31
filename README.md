@@ -36,10 +36,14 @@ Key Insights
 * Revenue peaks around June before declining from July onward.
 * Chair and Printer are the highest-revenue products shown in the dashboard.
 * Instagram is the highest-revenue referral source shown.
+* Comparing revenue and quantity sold provides a clearer view of product performance.
 
 Tools Used
 
 * Power BI
+* Power Query
+* DAX
+* Excel
 * Data cleaning and transformation
 * Data analysis
 * Data visualization
@@ -51,7 +55,9 @@ Dashboard Preview
 
 Project File
 
-The Power BI .pbix file is included in this repository for reference.
+The complete Power BI dashboard file is available in this repository.
+
+Download the Power BI Dashboard (.pbix)
 
 ⸻
 
