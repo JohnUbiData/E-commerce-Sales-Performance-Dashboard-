@@ -47,6 +47,8 @@ Tools Used
 
 Dashboard Preview
 
+<img src="./B7B9279A-B868-4C23-9CEE-52A7D1D453A2.jpeg" alt="E-commerce Sales Performance Dashboard" width="100%">
+
 Project File
 
 The Power BI .pbix file is included in this repository for reference.
