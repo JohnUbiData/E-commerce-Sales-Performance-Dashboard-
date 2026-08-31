@@ -19,8 +19,8 @@ The dashboard was designed to answer questions such as:
 * How is revenue changing over time?
 * Which products generate the most revenue?
 * Which products have the highest quantity sold?
-* Which referral sources generate the most revenue?
-* What is the distribution of order statuses?
+* Which referral sources contribute the most revenue?
+* How are orders distributed across different statuses?
 
 Dashboard Features
 
@@ -57,7 +57,7 @@ Project File
 
 The complete Power BI dashboard file is available in this repository.
 
-Download the Power BI Dashboard (.pbix)
+👉 View / Download the Power BI Dashboard (.pbix)
 
 ⸻
 
