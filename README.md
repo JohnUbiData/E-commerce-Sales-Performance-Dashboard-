@@ -28,14 +28,14 @@ Dashboard Features
 * Revenue by product
 * Quantity sold by product
 * Revenue by referral source
-* Order-status distribution
+* Order status distribution
 * KPI cards for revenue, orders, and customers
 
 Key Insights
 
 * Revenue peaks around June before declining from July onward.
-* Chair and Printer are the highest-revenue products shown in the dashboard.
-* Instagram is the highest-revenue referral source shown.
+* Chair and Printer are the highest revenue products shown in the dashboard.
+* Instagram is the highest revenue referral source shown.
 
 Tools Used
 
