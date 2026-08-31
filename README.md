@@ -57,7 +57,7 @@ Project File
 
 The complete Power BI dashboard file is available below.
 
-Power BI Dashboard:
+📊 Download Power BI Dashboard (.pbix)
 https://github.com/JohnUbiData/E-commerce-Sales-Performance-Dashboard-/blob/main/E_commerce_dashboard.pbix
 
 ⸻
