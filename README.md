@@ -38,6 +38,14 @@ The dashboard was designed to answer questions such as:
 * Instagram is the highest-revenue referral source shown.
 * Comparing revenue and quantity sold provides a clearer view of product performance.
 
+## Recommendations
+• Prioritize high performing products such as Chair and Printer while reviewing lower performing products for improvement opportunities.
+• Investigate the factors behind the decline in revenue after June to improve sales consistency.
+• Evaluate Instagram campaigns and identify what makes the channel effective for generating revenue.
+• Review product pricing and sales volume to understand differences in product contribution.
+• Continue monitoring key performance indicators regularly to identify changes and respond quickly.
+
+
 ## Tools Used
 
 * Power BI
